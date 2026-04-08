@@ -65,7 +65,7 @@ export default function App() {
               <input
                 className="search"
                 type="text"
-                placeholder="Search by name or PRN..."
+                placeholder="Search by name or PRN"
                 value={search}
                 onChange={(e) => setSearch(e.target.value)}
               />
