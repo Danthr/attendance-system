@@ -60,7 +60,7 @@ export default function App() {
 
         <section className="table-section">
           <div className="table-header">
-            <h2 className="section-title">Today's Attendance</h2>
+            <h2 className="section-title">Today&apos;s Attendance</h2>
             <div className="controls">
               <input
                 className="search"
